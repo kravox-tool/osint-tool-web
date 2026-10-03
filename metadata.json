@@ -1,0 +1,6 @@
+{
+  "name": "Osint tool",
+  "description": "Plataforma interactiva de auditoría de presencia digital y verificación asíncrona de alias en 300 redes sociales y plataformas web públicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
